@@ -53,7 +53,7 @@ time.sleep(3)
 print("now", YourName, "i will need to know your height in cm")
 height = input()
 
-#the defining calulations for what class you will become in the game, are defined, they are based on weight and height inputs (variables)
+
 
 if int(weight) < int(height) / 3:
     setclass = "Thief"
